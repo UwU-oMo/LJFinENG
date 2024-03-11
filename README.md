@@ -1,7 +1,5 @@
 # LJFinENG
-<style>
-  margin:0;
-</style>
+
 <p>&nbsp;&nbsp;&nbsp;&nbsp;My first try on github ( I am a male)</p>
 <p>I have no idea what git hub is used for</p>
 <p>Hope some nice person can tell me uwu</p>
