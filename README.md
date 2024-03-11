@@ -1,4 +1,9 @@
 # LJFinENG
+<style>
+  .p{
+    margin:0;
+  }
+</style>
 <p>My first try on github ( I am a male)</p>
 <p>I have no idea what git hub is used for</p>
 <p>Hope some nice person can tell me uwu</p>
