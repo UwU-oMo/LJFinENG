@@ -1,10 +1,6 @@
 # JCFLJFenginENG
 <html>
-  <head>
-    p{
-    margin:0;
-    }
-  </head>
+
   <body>
     <p>
       &nbsp;&nbsp;&nbsp;&nbsp;My first try on github ( I am a male)
